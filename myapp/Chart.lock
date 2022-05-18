@@ -1,0 +1,6 @@
+dependencies:
+- name: springapp
+  repository: file://../springapp
+  version: 0.1.0
+digest: sha256:0d8964f61adcb6210e6c66fcb27b361bbfa1a1248c50bb28d641b0565783d716
+generated: "2022-05-18T10:20:05.980971+08:00"
